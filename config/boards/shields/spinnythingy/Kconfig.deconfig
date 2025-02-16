@@ -1,0 +1,6 @@
+if SHIELD_SPINNYTHINGY
+
+config ZMK_KEYBOARD_NAME
+    default "SpinnyThingy"
+
+endif
